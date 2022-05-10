@@ -1,0 +1,19 @@
+
+.error-image{
+    width: 500px;
+    height: auto;
+    object-fit: contain;
+}
+
+.btn-error{
+    margin: 1rem;
+    padding: 1rem 2rem;
+    background-color: var(--main-bg);
+    color: var(--light-text);
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    font-size: 1.2rem;
+    font-weight: 600;
+
+}
